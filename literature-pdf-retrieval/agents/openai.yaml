@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature PDF Retrieval"
+  short_description: "Find full texts, verify identity, and track access handoffs"
+  default_prompt: "Use $literature-pdf-retrieval to find and validate the missing full texts in my study list, preserve prior attempts, and give me specific access steps only where needed."

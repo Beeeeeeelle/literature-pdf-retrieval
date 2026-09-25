@@ -1,0 +1,3 @@
+ID,title,DOI,pdf_filename,identity_status,retrieval_status,access_reason,next_action
+R001,Fictional study for a retrieval demonstration,,,not_checked,not_attempted,none,Search exact title and author metadata
+R002,Another fictional study for a handoff demonstration,,,not_checked,exhausted_current_routes,login_required,Confirm a library route before requesting sign-in
