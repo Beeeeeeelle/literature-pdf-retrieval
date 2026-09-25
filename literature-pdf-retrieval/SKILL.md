@@ -7,8 +7,9 @@ description: Retrieve and identity-check academic full texts from study lists or
 
 Start with the study list, existing PDFs and prior audit. Use available search/browser
 tools to prepare sources; the bundled scripts validate and extract pages, but do not
-search the network or log in. Python 3.10+ and `pypdf` run the helpers. Optional Poppler
-provides a second text parser for ambiguous extraction.
+search the network or log in. Python 3.10+ and `pypdf` run the helpers; install the pinned
+dependency from this skill's `requirements.txt` in the working Python environment.
+Optional Poppler provides a second text parser for ambiguous extraction.
 
 Read [access strategy and human handoff](references/access-and-handoff.md) when choosing
 routes or requesting human action; [examples](references/examples.md) for new users;
