@@ -4,6 +4,8 @@
 
 [中文](README.zh-CN.md) · [Strategy and human handoff](literature-pdf-retrieval/references/access-and-handoff.md) · [Example prompts](literature-pdf-retrieval/references/examples.md) · [Validation](docs/VALIDATION.md)
 
+New to the workflow? **[Watch the five-minute introduction](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.md)**, in English or Chinese, to see retrieval, human access handoffs and the connection to review.
+
 Finding a PDF can mean following a repository link, discovering an institutional access route, or asking someone to save a file that their browser can open. Obtaining the file is only the beginning: it must correspond to the intended article, chapter and version.
 
 This standalone agent skill organizes that work. The agent tries available routes, records the result, adapts to observed access conditions, and gives you a specific handoff when login, MFA or manual saving is needed. Returned files go through the same checks. A later session resumes from the audit.
