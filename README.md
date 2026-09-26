@@ -4,13 +4,13 @@
 
 [中文](README.zh-CN.md) · [Strategy and human handoff](literature-pdf-retrieval/references/access-and-handoff.md) · [Example prompts](literature-pdf-retrieval/references/examples.md) · [Validation](docs/VALIDATION.md)
 
-New to the workflow? **[Watch the five-minute introduction](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.md)**, in English or Chinese, to see retrieval, human access handoffs and the connection to review.
+For the next step, **[watch the five-minute introduction](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.md)**, in English or Chinese, to see retrieval, human access handoffs and the connection to review.
 
 **Belle visual edition:** [Open the redesigned bilingual films](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/README.md). The original videos remain available above.
 
-Play the introduction here:
+Start here: a one-minute opening, from familiar problems to a real workbench. Then follow the detailed introduction and hands-on tour:
 
-https://github.com/user-attachments/assets/015182cb-25d4-4a7c-bcbd-29c9b64eb867
+https://github.com/user-attachments/assets/7dc7591c-59f1-4c67-b2b7-108c4aae6a5d
 
 Finding a PDF can mean following a repository link, discovering an institutional access route, or asking someone to save a file that their browser can open. Obtaining the file is only the beginning: it must correspond to the intended article, chapter and version.
 
