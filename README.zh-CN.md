@@ -4,9 +4,14 @@
 
 [English](README.md) · [详细策略](docs/STRATEGY.zh-CN.md) · [提问示例](literature-pdf-retrieval/references/examples.md) · [验证记录](docs/VALIDATION.md)
 
-**Belle 本人英文讲解 · 8 分 31 秒 · 英文字幕。** 从初筛后找全文、核对 AI 的答案，到组员分工、回传和两个项目案例，直接点下方视频观看。[讲稿、章节与视频文件](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/belle-voice/README.zh-CN.md)。
+**Belle 本人英文讲解 · 8 分 31 秒 · 英文字幕。** 从初筛后找全文、核对 AI 的答案，到组员分工、回传和两个项目案例，点击下方封面展开播放器，再点播放即可观看。[讲稿、章节与视频文件](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/belle-voice/README.zh-CN.md)。
+
+<details>
+<summary><strong>▶ 点击封面展开视频 · Belle 英文讲解 · 8:31</strong><br/><picture><img src="https://raw.githubusercontent.com/Beeeeeeelle/review-evidence-workflow/main/docs/watch/belle-voice/cover.png" alt="视频封面：人的 codebook、全文获取、编码核验与团队反馈" width="100%" /></picture></summary>
 
 https://github.com/user-attachments/assets/3285d16d-d72a-48ec-9d7c-1b256f6b8430
+
+</details>
 
 [此前的中英双版视频](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/README.zh-CN.md)继续保留。
 

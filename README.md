@@ -6,7 +6,12 @@
 
 **Watch Belle explain the two skills · 8:31 · English, with captions.** From finding full texts to checking AI's work and coordinating a review team. [Transcript, chapters and video files](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/belle-voice/README.md).
 
+<details>
+<summary><strong>▶ Click the cover to open the video · Belle’s walkthrough · 8:31</strong><br/><picture><img src="https://raw.githubusercontent.com/Beeeeeeelle/review-evidence-workflow/main/docs/watch/belle-voice/cover.png" alt="Video cover: human codebook development, PDF retrieval, evidence verification and team feedback" width="100%" /></picture></summary>
+
 https://github.com/user-attachments/assets/3285d16d-d72a-48ec-9d7c-1b256f6b8430
+
+</details>
 
 [Earlier English and Chinese films](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/README.md) remain available.
 
