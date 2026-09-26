@@ -10,7 +10,7 @@ For the next step, **[watch the five-minute introduction](https://github.com/Bee
 
 Start here: a one-minute opening, from familiar problems to a real workbench. Then follow the detailed introduction and hands-on tour:
 
-https://github.com/user-attachments/assets/7dc7591c-59f1-4c67-b2b7-108c4aae6a5d
+https://github.com/user-attachments/assets/acc855c9-7a52-43a6-8be8-469008d4cb67
 
 Finding a PDF can mean following a repository link, discovering an institutional access route, or asking someone to save a file that their browser can open. Obtaining the file is only the beginning: it must correspond to the intended article, chapter and version.
 

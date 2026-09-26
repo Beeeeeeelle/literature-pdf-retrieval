@@ -10,7 +10,7 @@
 
 先看这个 55 秒开场：从三个熟悉的痛点，直接进入真实工作台。之后再看详细介绍与操作导览：
 
-https://github.com/user-attachments/assets/19c1eacb-9f9b-45ab-9fdb-a27d7f50d160
+https://github.com/user-attachments/assets/053342e2-b9c2-439d-9d5e-732d117daafc
 
 找 PDF 往往不只是搜标题、点下载：有的文章换了地址，有的藏在学校图书馆的资源里，有的能打开却需要你手动保存。文件拿到以后，还得确认它是不是那篇文章、是不是需要的章节和版本。
 
