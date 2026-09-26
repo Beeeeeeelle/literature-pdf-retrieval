@@ -6,6 +6,8 @@
 
 第一次接触这套方法？看 **[五分钟入门视频（中英双版）](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.zh-CN.md)**，认识找全文、人工访问接力，以及怎样接到后面的审阅。
 
+**Belle 新版视觉导览：[看中英双版视频](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/README.zh-CN.md)**。上方原版视频继续保留。
+
 找 PDF 往往不只是搜标题、点下载：有的文章换了地址，有的藏在学校图书馆的资源里，有的能打开却需要你手动保存。文件拿到以后，还得确认它是不是那篇文章、是不是需要的章节和版本。
 
 这个独立的 agent skill 负责这一段工作。AI 先尝试可用的路径，记录结果，再根据实际情况换策略。遇到登录、MFA 或需要手动下载的地方，它会告诉你具体做哪一步；你把文件交回来，它接着核对。每次进展都留下记录，下次可以从中断处继续。
