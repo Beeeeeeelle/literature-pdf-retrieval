@@ -8,6 +8,10 @@ New to the workflow? **[Watch the five-minute introduction](https://github.com/B
 
 **Belle visual edition:** [Open the redesigned bilingual films](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/README.md). The original videos remain available above.
 
+Play the introduction here:
+
+https://github.com/user-attachments/assets/015182cb-25d4-4a7c-bcbd-29c9b64eb867
+
 Finding a PDF can mean following a repository link, discovering an institutional access route, or asking someone to save a file that their browser can open. Obtaining the file is only the beginning: it must correspond to the intended article, chapter and version.
 
 This standalone agent skill organizes that work. The agent tries available routes, records the result, adapts to observed access conditions, and gives you a specific handoff when login, MFA or manual saving is needed. Returned files go through the same checks. A later session resumes from the audit.
