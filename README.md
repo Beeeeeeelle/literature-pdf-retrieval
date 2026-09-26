@@ -4,13 +4,11 @@
 
 [中文](README.zh-CN.md) · [Strategy and human handoff](literature-pdf-retrieval/references/access-and-handoff.md) · [Example prompts](literature-pdf-retrieval/references/examples.md) · [Validation](docs/VALIDATION.md)
 
-For the next step, **[watch the five-minute introduction](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.md)**, in English or Chinese, to see retrieval, human access handoffs and the connection to review.
+**Watch Belle explain the two skills · 8:31 · English, with captions.** From finding full texts to checking AI's work and coordinating a review team. [Transcript, chapters and video files](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/belle-voice/README.md).
 
-**Belle visual edition:** [Open the redesigned bilingual films](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/README.md). The original videos remain available above.
+https://github.com/user-attachments/assets/3285d16d-d72a-48ec-9d7c-1b256f6b8430
 
-Start here: a one-minute opening, from familiar problems to a real workbench. Then follow the detailed introduction and hands-on tour:
-
-https://github.com/user-attachments/assets/acc855c9-7a52-43a6-8be8-469008d4cb67
+[Earlier English and Chinese films](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/README.md) remain available.
 
 Finding a PDF can mean following a repository link, discovering an institutional access route, or asking someone to save a file that their browser can open. Obtaining the file is only the beginning: it must correspond to the intended article, chapter and version.
 

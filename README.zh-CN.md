@@ -4,13 +4,11 @@
 
 [English](README.md) · [详细策略](docs/STRATEGY.zh-CN.md) · [提问示例](literature-pdf-retrieval/references/examples.md) · [验证记录](docs/VALIDATION.md)
 
-想了解具体用法？再看 **[五分钟入门视频（中英双版）](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/intro/README.zh-CN.md)**，认识找全文、人工访问接力，以及怎样接到后面的审阅。
+**Belle 本人英文讲解 · 8 分 31 秒 · 英文字幕。** 从初筛后找全文、核对 AI 的答案，到组员分工、回传和两个项目案例，直接点下方视频观看。[讲稿、章节与视频文件](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/belle-voice/README.zh-CN.md)。
 
-**Belle 新版视觉导览：[看中英双版视频](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/README.zh-CN.md)**。上方原版视频继续保留。
+https://github.com/user-attachments/assets/3285d16d-d72a-48ec-9d7c-1b256f6b8430
 
-先看这个 55 秒开场：从三个熟悉的痛点，直接进入真实工作台。之后再看详细介绍与操作导览：
-
-https://github.com/user-attachments/assets/053342e2-b9c2-439d-9d5e-732d117daafc
+[此前的中英双版视频](https://github.com/Beeeeeeelle/review-evidence-workflow/blob/main/docs/watch/README.zh-CN.md)继续保留。
 
 找 PDF 往往不只是搜标题、点下载：有的文章换了地址，有的藏在学校图书馆的资源里，有的能打开却需要你手动保存。文件拿到以后，还得确认它是不是那篇文章、是不是需要的章节和版本。
 
